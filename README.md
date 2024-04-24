@@ -1,7 +1,7 @@
 CAPTCHA RECOGNITON USING CNN
 
 
-DATASET ---> 
+DATASET ---> https://drive.google.com/drive/folders/1j5kx7DPwmHnN3pm_P2a1ZVv3IQR1xdxk
 
 
 ** Captcha generation using Convolutional Neural Networks (CNNs) involves training a model to recognize characters within images and generate captchas that are challenging for 
